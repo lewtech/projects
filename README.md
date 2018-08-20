@@ -7,7 +7,7 @@
  - [x] has games for child to play 
  - [ ] connected over the internet so parent can call the device or check status
 
-### Current iOS project : Twitter emotions app
+### Current iOS project : Twitter movie sentiments app
 
  - [x] reads current movie data
  - [ ] uses Machine Learning to gauge the sentiment of the reviews
@@ -15,7 +15,7 @@
  - [ ] displays details of sentiment analysis
 
 ### Personal Project: Role Playing Game Simulator (Python)
-- [x] simulates combat between heroes and enemies
+- [x] simulates combat between heroes and enemies - uses object-oriented design
 - [ ] mission system
 - [ ] hero configuration and loading tool
 - [ ] monster configuration and loading tool
