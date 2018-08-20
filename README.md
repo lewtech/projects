@@ -13,8 +13,11 @@
  - [ ] uses Machine Learning to gauge the sentiment of the reviews
  - [ ] displays movies in a collection view
  - [ ] displays details of sentiment analysis
- 
- 
+
+### Personal Project: Role Playing Game Simulator (Python)
+
+---
+
 # Portfolio
 ### - Christian Media App (iOS)
 ### - SpriteKit Essentials : Astro Game (iOS school project)
@@ -22,5 +25,4 @@
     - app uses phone sensor data to determine the level distracted driving.
     
 
-# Personal Project
-### Role Playing Game Simulator (Python)
+
