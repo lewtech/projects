@@ -18,4 +18,4 @@
 ### - Christian Media App (iOS)
 ### - SpriteKit Essentials : Astro Game (iOS school project)
 ### - Allstate Distracted Driving App (iOS group project)
- - created an app that uses phone sensor data to determine the level of a driver's distracted driving.
+    - created an app that uses phone sensor data to determine the level of a driver's distracted driving.
