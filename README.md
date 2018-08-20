@@ -18,7 +18,7 @@
 # Portfolio
 ### - Christian Media App (iOS)
 ### - SpriteKit Essentials : Astro Game (iOS school project)
-### - Allstate Distracted Driving App (iOS group project) (IoT)
+### - Distracted Driving App (iOS group project, IoT)
     - app uses phone sensor data to determine the level distracted driving.
     
 
