@@ -23,9 +23,9 @@
 ---
 
 # Portfolio
-### - Christian Media App (iOS)
-### - SpriteKit Essentials : Astro Game (iOS school project)
-### - Distracted Driving App (iOS group project, IoT)
+### - [Christian Media App (iOS)](https://tinyurl.com/y8xtpawn)
+### - [SpriteKit Essentials : AstroKnot (iOS school project)](https://github.com/lewtech/astroknot)
+### - [Distracted Driving App (iOS group project, IoT)](https://github.com/CSC595/AllstateCarProject)
     - app uses phone sensor data to determine the level distracted driving.
     
 
