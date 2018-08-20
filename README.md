@@ -7,8 +7,15 @@
  - [x] has games for child to play 
  - [ ] connected over the internet so parent can call the device or check status
 
-### iOS project : Twitter emotions app
+### Current iOS project : Twitter emotions app
 
  - [x] reads current movie data
  - [ ] uses Machine Learning to gauge the sentiment of the reviews
- - [ ] displays results of analysis in a collection view
+ - [ ] displays movies in a collection view
+ - [ ] displays details of sentiment analysis
+ 
+# Portfolio
+### - Christian Media App (iOS)
+### - SpriteKit Essentials : Astro Game (iOS school project)
+### - Allstate Distracted Driving App (iOS group project)
+ - created an app that uses phone sensor data to determine the level of a driver's distracted driving.
