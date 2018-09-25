@@ -1,5 +1,5 @@
 
-# Portfolio
+# Lew Flauta Portfolio
 ### - [Christian Media App (iOS)](https://tinyurl.com/y8xtpawn)
 ### - [SpriteKit Essentials : AstroKnot (iOS school project)](https://github.com/lewtech/astroknot)
 ### - [Distracted Driving App (iOS group project, IoT)](https://github.com/CSC595/AllstateCarProject)
@@ -7,7 +7,7 @@
     
 --- 
 
-# Lew Flauta Works in Progress
+# Works in Progress
 
 ### Personal Project: Role Playing Game Simulator (Python)
 - [x] simulates combat between heroes and enemies - uses object-oriented design
