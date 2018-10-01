@@ -14,8 +14,8 @@
 # Works in Progress
 
 ### Personal Project: Role Playing Game Simulator (Python)
-- [x] simulates combat between heroes and enemies - uses object-oriented design
-- [ ] mission system
+- [x] simulates combat between heroes and enemies - uses object-oriented design.
+- [ ] mission system.
 - [ ] hero configuration and loading tool
 - [ ] monster configuration and loading tool
 
