@@ -4,8 +4,9 @@
 ### - [Christian Media App (iOS)](https://tinyurl.com/y8xtpawn)
 ### - [SpriteKit Essentials : AstroKnot (iOS school project)](https://github.com/lewtech/astroknot)
 ### - [Distracted Driving App (iOS group project, IoT)](https://github.com/CSC595/AllstateCarProject)
-    - app uses phone sensor data to determine the level distracted driving.
-### - [Data Portfolio](https://github.com/Lew-Flauta/data-portfolio) Collection of Jupyter Notebooks and Visualizations.
+ - app uses phone sensor data to determine the level distracted driving.
+### - [Data Portfolio](https://github.com/Lew-Flauta/data-portfolio) 
+ - Collection of Jupyter Notebooks and Visualizations.
     
 --- 
 
